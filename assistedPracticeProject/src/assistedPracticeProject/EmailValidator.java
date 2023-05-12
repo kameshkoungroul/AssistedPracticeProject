@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 
 public class EmailValidator {
     public static void main(String[] args) {
-        String email = "kamesh@gmail.com";
+        String email = "kamesh.19@gmail.com";
 
         // Regular expression pattern for email validation
         String regex = "^[a-zA-Z0-9_+&*-]+(?:\\." +
